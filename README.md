@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neha Kumari</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Face Recognisation System**
+- 🔭 I’m currently working on **SALESFORCE DEVELOPER**
 
-- 🌱 I’m currently learning **DS&A,ML Model, Gen-AI, Sales Force**
+- 🌱 I’m currently learning **APEX, LWC, INTEGRATION, JIRA, Postman, ML Model, Gen-AI, Sales Force**
 
 - 👯 I’m looking to collaborate on **Data Field and Gen-AI**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nehanishad200311@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d0dB16rfgAkFN_1ywj1k1rL0vQubaRVi/view?usp=sharing](https://drive.google.com/file/d/1d0dB16rfgAkFN_1ywj1k1rL0vQubaRVi/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d0dB16rfgAkFN_1ywj1k1rL0vQubaRVi/view?usp=sharing](https://drive.google.com/file/d/1ntSI_9UA7kun5_9kO9NMdS7m0BpNbsQ2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
